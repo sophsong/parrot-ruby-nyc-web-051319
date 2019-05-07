@@ -1,8 +1,8 @@
 
 def  method_parrot(phrase= "Squawk!")
 
-     puts #{phrase}
-    p #{phrase}
+     puts "#{phrase}"
+    "#{phrase}"
 end
 
 
